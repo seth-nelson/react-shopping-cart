@@ -2,7 +2,7 @@ import { createContext } from 'react';
 
 
 export const ProductContext = createContext();
-console.log('product context', ProductContext);
+console.log('created product context', ProductContext);
 
 
 

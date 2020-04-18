@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
-import { CartContext } from 'react';
+import CartContext from 'react';
+
 import { NavLink } from 'react-router-dom';
 
 const Navigation = () => {

@@ -1,8 +1,6 @@
 import React, { useContext } from 'react';
-import CartContext from 'react';
-
-// Components
 import Item from './ShoppingCartItem';
+import CartContext from '../contexts/CartContext';
 
 //refactor to remove props and add consumer
 const ShoppingCart = () => {

@@ -5,5 +5,4 @@ export const ProductContext = createContext();
 console.log('created product context', ProductContext);
 
 
-
 export default ProductContext;
